@@ -1,4 +1,3 @@
-```md
 # Unsere API
 
 Mit unserer API erhältst du kostenlosen Zugriff auf zahlreiche Dienste, die normalerweise kostenpflichtig sind.
