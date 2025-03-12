@@ -1,5 +1,3 @@
-Hier ist deine README.md für die API:
-
 ```md
 # Unsere API
 
@@ -159,5 +157,3 @@ Wir danken dir, dass du unsere API verwendest! Wir hoffen, dass du mit den berei
 
 Wir wünschen dir viel Erfolg bei der Nutzung unserer API und freuen uns darauf, dich bald wieder hier zu sehen. Bei weiteren Fragen stehen wir jederzeit zur Verfügung!
 ```
-
-Dieser README enthält alle wichtigen Informationen, die du für die Nutzung der API und deren Integration in Projekte benötigst. Es enthält auch detaillierte Anweisungen, Beispiele und Tipps zur Fehlerbehebung.
